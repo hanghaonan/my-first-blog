@@ -1,12 +1,12 @@
-baseurl: https://shenoydotme.github.io/
+baseurl: https://github.com/hanghaonan/my-first-blog
 builddrafts: no
 canonifyurls: no
 languageCode: en-US
 contentdir: content
 layoutdir: layouts
 publishdir: public
-author: Panjim Goa
-title: Panjim Goa
+author: zhang hao nan
+title:  zhang hao nan
 theme: hugo-goa
 enableRobotsTXT: yes
 params:
@@ -15,7 +15,7 @@ params:
   dateformat: Jan 2, 2006
   description: Leading the charge at [Incircle Media](https://incirclemedia.com)
   extra:
-    copyright: © 2024. Panjim Goa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).
+    copyright: © 2025. zhang hao nan. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).
     displayrssicon: yes
     highlightjs: yes
     poweredby: yes
@@ -28,7 +28,7 @@ params:
   social:
     bitbucket: <username>
     buymeacoffee: <username>
-    email: you@example.com
+    email: zhn2091968860@gmail.com
     facebook: <username>
     fivehundredpx: <username>
     flickr: <username>
