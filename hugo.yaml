@@ -1,0 +1,79 @@
+baseurl: https://shenoydotme.github.io/
+builddrafts: no
+canonifyurls: no
+languageCode: en-US
+contentdir: content
+layoutdir: layouts
+publishdir: public
+author: Panjim Goa
+title: Panjim Goa
+theme: hugo-goa
+enableRobotsTXT: yes
+params:
+  author: Panjim Goa
+  authorimage: headshot.png
+  dateformat: Jan 2, 2006
+  description: Leading the charge at [Incircle Media](https://incirclemedia.com)
+  extra:
+    copyright: © 2024. Panjim Goa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).
+    displayrssicon: yes
+    highlightjs: yes
+    poweredby: yes
+    socialmarkup: yes
+    toc: yes
+  intro: Innovative Tech Visionary
+  meta:
+    description: Simple minimalist theme
+    keywords: minimalist,blog,goa,hugo,developer
+  social:
+    bitbucket: <username>
+    buymeacoffee: <username>
+    email: you@example.com
+    facebook: <username>
+    fivehundredpx: <username>
+    flickr: <username>
+    foursquare: <username>
+    github: <username>
+    gitlab: <username>
+    goodreads: <username>
+    google: <username>
+    googlescholar: <account_id>
+    hackernews: <username>
+    holopin: <username>
+    instagram: <username>
+    kaggle: <username>
+    keybase: <username>
+    kickstarter: <username>
+    lastfm: <username>
+    linkedin: <username>
+    orcid: 0123-4567-8901-2345
+    patreon: <username>
+    pgp: <key_fingerprint>
+    pintrest: <username>
+    reddit: <username>
+    skype: <username>
+    snapchat: <username>
+    soundcloud: <username>
+    stackoverflow: <username>
+    steam: <username>
+    strava: <username>
+    telegram: <username>
+    tumblr: <username>
+    twitch: <username>
+    twitter: <username>
+    whatsapp: <username>
+    youtube: <channelid>
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: posts/
+      weight: 100
+    - identifier: about
+      name: about
+      url: about/
+      weight: 200
+    - identifier: projects
+      name: projects
+      url: projects/
+      weight: 300
