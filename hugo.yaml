@@ -1,4 +1,4 @@
-baseurl: https://github.com/hanghaonan/my-first-blog
+baseurl: https://zhnlh.netlify.app
 builddrafts: no
 canonifyurls: no
 languageCode: en-US
