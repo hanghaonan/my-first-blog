@@ -1,7 +1,7 @@
 ---
 title: "FRP内网穿透教程"
 author: "zhang hao nan"
-date: "2024-05-22"
+date: "2025-06-27"
 slug: frp-tutorial
 ---
 
