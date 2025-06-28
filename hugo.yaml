@@ -65,9 +65,9 @@ params:
     # youtube: <channelid>
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: posts/
+    - identifier: blog
+      name: blog
+      url: blog/
       weight: 100
     - identifier: about
       name: about
